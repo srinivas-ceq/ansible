@@ -2,7 +2,7 @@
 Ansible_playbook Sample
 
 
- # Master _EC2_Stept #
+ # Master _EC2_Stepts #
 
 # Stept_1
 change hostname :   hostnamectl set-hostname  <newname>
@@ -59,7 +59,7 @@ Execute the playbook
  ansible-playbook myplaybook.yml
 
 
- #Master _EC2_Stept#
+ # Node_EC2_Stept #
 
 
 # Stept_1
