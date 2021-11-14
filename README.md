@@ -65,7 +65,7 @@ Execute the playbook
 # Stept_1
 cahnge hostname :   hostnamectl set-hostname  <newname>
 
-#Stepet_2
+# Stepet_2
 
 update the server : sudo apt update
 
@@ -74,7 +74,7 @@ set the following stepts
 sudo apt install software-properties-common
 
 
-#Stept-_4
+# Stept-_4
 sudo apt install nginx
 check the ansible --version
 
